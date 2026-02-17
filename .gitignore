@@ -4,13 +4,22 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Virtual env
+# Virtual environments
 .venv/
 env/
+venv/
 
-# Outputs
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs (generated artifacts)
 outputs/embeddings/
 outputs/indexes/
+outputs/reports/
+
+# Data (optional: keep raw/processed if you want, but do NOT upload huge files)
+# data/raw/
+# data/processed/
 
 # OS
 .DS_Store
@@ -18,3 +27,6 @@ Thumbs.db
 
 # Streamlit
 .streamlit/
+
+# Hugging Face cache (optional)
+.cache/
