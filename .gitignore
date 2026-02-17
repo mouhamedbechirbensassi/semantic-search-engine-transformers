@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+
+# Outputs
+outputs/embeddings/
+outputs/indexes/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
