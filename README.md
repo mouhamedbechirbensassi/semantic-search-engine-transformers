@@ -177,6 +177,8 @@ Then open:http://localhost:8501
 This project moves beyond keyword search into true **semantic understanding**.
 
 ---
+![App Screenshot](web_app_image_1.png) (web_app_image_2.png)
+
 
 
 
