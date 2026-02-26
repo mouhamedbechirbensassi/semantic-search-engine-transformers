@@ -109,7 +109,7 @@ semantic-search-engine/
 # ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/semantic-search-engine-transformers.git
+
 
 cd semantic-search-engine-transformers
 
